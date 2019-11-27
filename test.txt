@@ -2,3 +2,7 @@ just testing
 bye
 bob adding new code :)
 Alice adding new code :)
+
+Opps Sorry I forgot to pull the code and pushing it.
+I will get conflicts.
+>>>>>>> bob commit
